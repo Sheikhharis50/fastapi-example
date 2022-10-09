@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "oop-example"
+name = "fastapi-example"
 version = "0.1.0"
 description = ""
 authors = ["Sheikh Haris Zahid <sheikh.haris.zahid@hotmail.com>"]
